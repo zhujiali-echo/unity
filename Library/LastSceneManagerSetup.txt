@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scens/01-Lever.unity
+  isLoaded: 1
+  isActive: 1
